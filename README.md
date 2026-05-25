@@ -123,7 +123,7 @@ ipl-analytics-intelligence-platform/
 ├── powerbi_seasons.csv
 ├── powerbi_teams.csv
 │
-├── ipl_eda_dashboard.png
+├── Ipl_Analytics.pbix
 ```
 
 ---
